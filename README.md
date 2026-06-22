@@ -17,4 +17,4 @@ This project predicts house prices in Kanpur using Machine Learning.
 - Google Colab
 
 ## Author
-Amrit Katiyar
+Amrit Kumar
